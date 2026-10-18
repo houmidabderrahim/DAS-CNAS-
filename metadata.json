@@ -1,0 +1,6 @@
+{
+  "name": "DAS Algérie - Générateur CNAS",
+  "description": "Application de bureau pour la génération automatique des deux fichiers réglementaires de la Déclaration Annuelle des Salaires (DAS CNAS Entête et Détail) à partir d'un fichier Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
